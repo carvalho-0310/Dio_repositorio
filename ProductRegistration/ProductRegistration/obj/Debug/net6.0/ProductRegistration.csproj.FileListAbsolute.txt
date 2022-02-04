@@ -1,0 +1,15 @@
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ProductRegistration.exe
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ProductRegistration.deps.json
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ProductRegistration.runtimeconfig.json
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ProductRegistration.dll
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ref\ProductRegistration.dll
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\bin\Debug\net6.0\ProductRegistration.pdb
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.csproj.AssemblyReference.cache
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.AssemblyInfoInputs.cache
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.AssemblyInfo.cs
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.csproj.CoreCompileInputs.cache
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.dll
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ref\ProductRegistration.dll
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.pdb
+C:\Users\carva\source\repos\ProductRegistration\ProductRegistration\obj\Debug\net6.0\ProductRegistration.genruntimeconfig.cache
